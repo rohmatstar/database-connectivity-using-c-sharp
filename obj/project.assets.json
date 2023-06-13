@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\-- METRODATA --\\MCC\\OOP\\Role Management\\Database Connectivity\\Database Connectivity.csproj",
+      "projectUniqueName": "D:\\-- METRODATA --\\MCC\\Program\\database-connectivity-using-c-sharp\\Database Connectivity.csproj",
       "projectName": "Database Connectivity",
-      "projectPath": "D:\\-- METRODATA --\\MCC\\OOP\\Role Management\\Database Connectivity\\Database Connectivity.csproj",
+      "projectPath": "D:\\-- METRODATA --\\MCC\\Program\\database-connectivity-using-c-sharp\\Database Connectivity.csproj",
       "packagesPath": "C:\\Users\\Ahn Yu Jin\\.nuget\\packages\\",
-      "outputPath": "D:\\-- METRODATA --\\MCC\\OOP\\Role Management\\Database Connectivity\\obj\\",
+      "outputPath": "D:\\-- METRODATA --\\MCC\\Program\\database-connectivity-using-c-sharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ahn Yu Jin\\AppData\\Roaming\\NuGet\\NuGet.Config",

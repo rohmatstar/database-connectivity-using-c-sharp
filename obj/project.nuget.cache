@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lneAI2CxywmCyBfoVd1gfXujsLh5Uii3WQw9W5k1DHPe33siVzWBEC/6HgQqwavFaGOv0jnkC/0e7bpLlY1ydQ==",
+  "dgSpecHash": "hP6ivUNA5LnKG6cqtzDbScI82XrEdWhY5nXW7lljZSlUpoMAUMCy3vzmlGQmnDqazmnLfCOlY39Ia28Oa+Bk2Q==",
   "success": true,
-  "projectFilePath": "D:\\-- METRODATA --\\MCC\\OOP\\Role Management\\Database Connectivity\\Database Connectivity.csproj",
+  "projectFilePath": "D:\\-- METRODATA --\\MCC\\Program\\database-connectivity-using-c-sharp\\Database Connectivity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahn Yu Jin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Ahn Yu Jin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

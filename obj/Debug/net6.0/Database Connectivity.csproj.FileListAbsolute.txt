@@ -20,3 +20,25 @@ D:\-- METRODATA --\MCC\OOP\Role Management\Database Connectivity\obj\Debug\net6.
 D:\-- METRODATA --\MCC\OOP\Role Management\Database Connectivity\obj\Debug\net6.0\Database Connectivity.pdb
 D:\-- METRODATA --\MCC\OOP\Role Management\Database Connectivity\obj\Debug\net6.0\Database Connectivity.genruntimeconfig.cache
 D:\-- METRODATA --\MCC\OOP\Role Management\Database Connectivity\obj\Debug\net6.0\ref\Database Connectivity.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\Database Connectivity.exe
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\Database Connectivity.deps.json
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\Database Connectivity.runtimeconfig.json
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\Database Connectivity.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\Database Connectivity.pdb
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\Database Connectivity.csproj.AssemblyReference.cache
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\Database Connectivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\Database Connectivity.AssemblyInfoInputs.cache
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\Database Connectivity.AssemblyInfo.cs
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\Database Connectivity.csproj.CoreCompileInputs.cache
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\Database Connectivity.csproj.CopyComplete
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\Database Connectivity.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\refint\Database Connectivity.dll
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\Database Connectivity.pdb
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\Database Connectivity.genruntimeconfig.cache
+D:\-- METRODATA --\MCC\Program\database-connectivity-using-c-sharp\obj\Debug\net6.0\ref\Database Connectivity.dll
