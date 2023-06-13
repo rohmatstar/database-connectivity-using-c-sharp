@@ -7,7 +7,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        /*GetAllRegions();*/
+        GetAllRegions();
         /*InsertRegion("Antartica");*/
         /*GetRegion(1);*/
         /*UpdateRegion(1, "Antartica");*/
@@ -23,7 +23,7 @@ public class Program
         /*GetAllEmployees();*/
         /*GetAllJobs();*/
         /*GetAllLocations();*/
-        GetAllHistories();
+        /*GetAllHistories();*/
 
         Console.ReadLine();
     }
@@ -107,13 +107,18 @@ public class Program
 
     // METHOD
 
-    static List<Region> GetAllRegions()
+    static void ShowData(Object input)
+    {
+        var data = new List<Object>();
+        data.Add(input);
+
+        Console.WriteLine(data.Count);
+    }
+    static void GetAllRegions()
     {
         SqlConnection connect = Connect();
-        var region = new List<Region>();
         try
         {
-            //Command
             SqlCommand command = connect.CreateCommand();
             command.Connection = connect;
             command.CommandText = "SELECT * FROM tb_m_regions";
@@ -144,7 +149,6 @@ public class Program
             Console.ReadLine();
         }
         connect.Close();
-        return region;
     }
     static List<Region> GetRegion(int id)
     {
