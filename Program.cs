@@ -8,16 +8,50 @@ public class Program
     public static void Main(string[] args)
     {
         GetAllRegions();
-        /*InsertRegion("Antartica");*/
-        /*GetRegion(1);*/
-        /*UpdateRegion(1, "Antartica");*/
-        /*DeleteRegion(15);*/
 
-        /*GetAllCountries();*/
-        /*InsertCountry("11", "Jamaika", 2);*/
-        /*GetCountry("1");*/
-        /*UpdateCountry("11", "Honduras", 2);*/
-        /*DeleteCountry("11");*/
+        /* Console.Write("Enter Region Name: ");
+         * string region_name = Console.ReadLine();
+         * InsertRegion(region_name);*/
+
+        /* Console.Write("Get Region with ID: ");
+         * int region_id = Console.ReadLine();
+         * GetRegion(region_id);*/
+
+        /* Console.Write("Update Region Name: ");
+         * string region_name = Console.ReadLine();
+         * Console.Write("Region ID: ");
+         * int region_id = Console.ReadLine();
+         * UpdateRegion(region_id, region_name);*/
+
+        /* Console.Write("Delete Region with ID: ");
+         * int region_id = Console.ReadLine();
+         * DeleteRegion(region_id);*/
+
+        /* GetAllCountries();*/
+
+        /* Console.Write("Enter Country Name: ");
+         * string country_name = Console.ReadLine();
+         * Console.Write("Enter Region ID: ");
+         * int region_name = Console.ReadLine();
+         * Console.Write("Enter Country ID: ");
+         * string country_id = Console.ReadLine();
+         * InsertCountry(country_id, country_name, region_id);*/
+
+        /* Console.Write("Get Country with ID: ");
+         * string country_id = Console.ReadLine();
+         * GetCountry(country_id);*/
+
+        /* Console.Write("Update Country Name: ");
+         * string country_name = Console.ReadLine();
+         * Console.Write("Update Region ID: ");
+         * int region_id = Console.ReadLine();
+         * Console.Write("Enter Country ID: ");
+         * string country_id = Console.ReadLine();
+         * UpdateCountry(country_id, country_name, region_id);*/
+
+        /* Console.Write("Delete Country with ID: ");
+         * string country_id = Console.ReadLine();
+         * DeleteCountry(country_id);*/
 
         /*GetAllDepartments();*/
         /*GetAllEmployees();*/
